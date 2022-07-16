@@ -17,7 +17,7 @@ Config file `config-env-default` to `.env`
  [demo](https://puchat.herokuapp.com/)
 
  Frontend
- [github](https://github.com/dAn1L0/chat-fronted)
+ [github](https://github.com/dAn1L0/chat-frontend)
 
 ![Login](https://live.staticflickr.com/65535/52219394100_080644dc54_z.jpg "Login")
 
