@@ -36,6 +36,9 @@ class Server {
     //? Configuración Endpoints
     this.app.use('/api/login', require('../router/auth')) 
     this.app.use('/api/mensajes', require('../router/mensaje')) 
+    this.app.get('*', function(req, res) {
+      res.sendFile(path.join(__dirname, 'public', 'index.html'));
+    });
   }
 
   socketsIO(){
