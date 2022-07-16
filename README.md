@@ -14,10 +14,10 @@ Config file `config-env-default` to `.env`
  yarn dev
  ```
 
- [demo]()
+ [demo](https://puchat.herokuapp.com/)
 
  Frontend
- [github]()
+ [github](https://github.com/dAn1L0/chat-fronted)
 
 ![Login](https://live.staticflickr.com/65535/52219394100_080644dc54_z.jpg "Login")
 
